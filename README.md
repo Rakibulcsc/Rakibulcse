@@ -25,4 +25,8 @@ Skills: C/ python/  HTML
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rakibulcsc)  
 
-![)  
+![)  GitHub metrics](https://metrics.lecoq.io/Rakibulcsc)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rakibulcsc)  
+
+![Profile views](https://gpvc.arturio.dev/Rakibulcsc
